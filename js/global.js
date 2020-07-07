@@ -1,8 +1,6 @@
 /*
 
-November Template
 
-http://www.templatemo.com/tm-473-november
 
 */
 
